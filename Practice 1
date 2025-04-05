@@ -1,5 +1,5 @@
-
-
+<!DOCTYPE html>
+<html>
   <body>
         <h1>Hello, world!</h1>
         <p>This is my first attempt at HTML since the days of Myspace.</p>
@@ -11,4 +11,5 @@
 <p style="font-family:'Garamond'">This is the font "Garamond", which is my <em>favorite</em> font.</p> 
 <p>I'm practicing HTML and Python from <time>11:00</time>a.m. to <time>1:00</time>p.m. every day. By adding in time in tag format, the code can have machine interaction which allows for auto changes or reminders.</p>
 </body>
+</html>
    
