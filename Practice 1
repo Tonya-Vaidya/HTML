@@ -1,0 +1,11 @@
+
+  <body>
+        <h1>Hello, world!</h1>
+        <p>This is my first attempt at HTML since the days of Myspace.</p>
+        <p>HTML is <strong>simple</strong> yet effective.
+        </p>
+         <p style="font-family:verdana">This is the font "Verdana".</p>
+<p style="font-family:'Garamond'">This is the font "Garamond", which is my <em>favorite</em> font.</p> 
+<p>I'm practicing HTML and Python from <time>11:00</time>a.m. to <time>1:00</time>p.m. every day.</p>
+</body>
+   
